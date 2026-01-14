@@ -44,6 +44,9 @@ Projeto full stack para cadastro e gerenciamento de usuários, desenvolvido com 
 ![Cadastro](./screenshots/cadastro.png)
 
 ---
+### Lista de Usuários
+
+![Lista](./screenshots/lista.png)
 
 ## ⚙️ Como rodar o projeto
 
