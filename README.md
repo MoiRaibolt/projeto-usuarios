@@ -53,7 +53,7 @@ Projeto full stack para cadastro e gerenciamento de usuários, desenvolvido com 
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-usuarios.git
+git clone https://github.com/MoiRaibolt/projeto-usuarios.git
 ```
 
 2️⃣ Subir banco de dados
